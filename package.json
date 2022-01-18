@@ -1,0 +1,18 @@
+{
+  "name": "tau-keyboard",
+  "main": "app/app.ts",
+  "scripts": {
+    "start": "tns run Android"
+  },
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nativescript/core": "~8.1.1",
+    "@nativescript/theme": "~3.0.1"
+  },
+  "devDependencies": {
+    "@nativescript/types": "~8.1.1",
+    "@nativescript/webpack": "~5.0.0",
+    "typescript": "~4.3.5"
+  }
+}
