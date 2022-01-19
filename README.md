@@ -10,7 +10,7 @@ Currently this application is in early access and still under development, there
 
 ### Requirements:
 
-To be able to run and develop this app locally, you need to install the Android SDK.
+To be able to run and develop this app locally on your computer, you need to install:
 
 - Android SDK
 - Typescript
