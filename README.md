@@ -1,3 +1,5 @@
+# IMPORTANT!!
+<h2>Due to a problem with the development environment it is not possible to continue the project.</h2>
 <img width="100px" src="svg/icon.svg">
 
 # Tau-Keyboard
@@ -16,3 +18,4 @@ To be able to run and develop this app locally on your computer, you need to ins
 - Typescript
 - npm
 - NativeScript
+
